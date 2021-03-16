@@ -1,0 +1,1 @@
+{"breweries": [{"id":12312, "name":"MY BREWHOUSE", "address": {"street": "My street", "number": 16, "zipcode": 23432, "city": "Chicago"}, "imageURL":null},{"id":32312, "name":"YOUR BREWHOUSE", "address": {"street": "Yout street", "number": 17, "zipcode": 11132, "city": "New York"}, "imageURL":null}]}
